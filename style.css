@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    text-align: center;
+    
+}
+#BACKGROUND{
+    background-color: blue;
+    color: white;
+    margin: 0;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: darkblue;
+}
+.PARA{
+  color: white;
+  cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
+.LINK{
+    display: flex;
+    justify-content: space-around;
+
+}
+.blue{
+    padding-top: 30px;
+    color:indigo;
+    font-weight: bold;
+}
+.line-1{
+    color:red;
+}
+.container-div{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.container{
+
+}
+img{
+    width: 200px;
+}
+p {
+  text-align: center;
+  font-weight: bolder; 
+
+}
+button{
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    box-shadow: 1px 3px 5px;
+    cursor: pointer;  
+    
+}
+.price{
+    color: red;
+}
